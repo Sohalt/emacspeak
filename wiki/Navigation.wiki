@@ -1,29 +1,8 @@
-#summary One-sentence summary of this page.
+#summary Emacspeak Resources 
 #labels Navigation
 
 = Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-#summary Navigate Emacspeak Web Resources 
-
-= Introduction =
-
-This page contains convenience links for navigating Emacspeak
-resources on the Web.
-
-
-
-= Details =
+This page contains pointers to Emacspeak resources on the Web.
 
   * [http://emacspeak.sf.net Emacspeak Home]
   * [http://emacspeak.blogspot.com Emacspeak Blog]
-
-  
