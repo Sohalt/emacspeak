@@ -1,9 +1,0 @@
-#summary Emacspeak Demos
-#labels Demos, Video
-
-= Introduction =
-
-This page contains pointers to video demos of Emacspeak along
-with their associated description.
-
-  
