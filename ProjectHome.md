@@ -1,0 +1,1 @@
+Emacspeak speech-enables Emacs to turn Emacs into a complete audio desktop
